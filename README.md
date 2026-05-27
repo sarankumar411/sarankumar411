@@ -28,7 +28,6 @@ I'm a seasoned **Backend & Data Engineer** with **10+ years** of experience arch
 - ☁️ Cloud architect on **AWS & Azure** — I make clouds do the heavy lifting
 - 📊 Data whisperer — I speak fluent **SQL**, **Python**, and **pipeline**
 - 🎯 Currently obsessed with **Agentic AI** frameworks and autonomous systems
-- 📝 I share insights on **Medium** — follow along!
 - ⚡ Fun fact: I can debug a pipeline faster than I can finish a cup of coffee ☕
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -92,9 +91,6 @@ I'm a seasoned **Backend & Data Engineer** with **10+ years** of experience arch
   <a href="https://www.linkedin.com/in/saran-kumar-ayyagari-312957274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@sarankumar411" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://github.com/sarankumar411" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -145,7 +141,7 @@ I'm a seasoned **Backend & Data Engineer** with **10+ years** of experience arch
 
 💬 Got a challenging data problem or AI project? **Let's talk!**
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/saran-kumar-ayyagari-312957274/) | [Medium](https://medium.com/@sarankumar411)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/saran-kumar-ayyagari-312957274/) | [GitHub](https://github.com/sarankumar411)
 
 <br/>
 
